@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         RISE.EXE - Cracked
+// @name         RISE.EXE - Cracked v1
 // @version      1.0
-// @description  Highly skidded Vanis.io Multibox Extension - @discord.me/axoninfinite
+// @description  Highly skidded Vanis.io Multibox Extension
 // @match        *://vanis.io/*
 // @author       Stack Overflow
 // @run-at       document-end
